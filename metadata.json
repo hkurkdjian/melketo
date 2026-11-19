@@ -1,0 +1,8 @@
+{
+  "name": "ملک‌ تو | سامانه تخصصی املاک",
+  "description": "معرفی، خرید، رهن و اجاره و پیش‌فروش املاک مسکونی و اداری منتخب با طراحی مدرن، فیلتر هوشمند و محاسبه‌گر اقساط",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
